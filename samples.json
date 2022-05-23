@@ -1,5 +1,5 @@
 [
-{ "url":"sin_nombre01.wav","type":"audio","101":"candy","n":0},
-{ "url":"sin_nombre02.wav","type":"audio","102":"candy","n":0},
-{ "url":"sin_nombre03.wav","type":"audio","103":"candy","n":0},
+{ "url":"sin_nombre01.wav","type":"audio","bank":"101","n":0},
+{ "url":"sin_nombre02.wav","type":"audio","bank":"102","n":0},
+{ "url":"sin_nombre03.wav","type":"audio","bank":"103","n":0},
   ]
