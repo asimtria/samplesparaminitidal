@@ -1,7 +1,8 @@
 [
 { "url":"http://yupanasimi.org/audio/001.wav","type":"audio","bank":"arpa1","n":0},
-{ "url":"http://yupanasimi.org/audio/002.wav","type":"audio","bank":"Challwaschallay","n":0},
+{ "url":"http://yupanasimi.org/audio/002.wav","type":"audio","bank":"challwaschallay","n":0},
 { "url":"sin_nombre03.wav","type":"audio","bank":"103","n":0},
   { "url":"104.wav","type":"audio","bank":"104","n":0},
-  { "url":"105.wav","type":"audio","bank":"105","n":0}
+  { "url":"105.wav","type":"audio","bank":"105","n":0},
+ { "url":"https://yupanasimi.org/audio/213.wav","type":"audio","bank":"105","n":0}
   ]
